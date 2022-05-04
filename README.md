@@ -27,7 +27,7 @@ $ pip install cython
 $ rm -rf meta
 $ termux-setup-storage
 $ git clone https://github.com/ROY-ID/meta
-$ cd meta
+$ cd meta (user: meta Pw: metaroyid)
 $ git pull
 $ python run.py
 ````
